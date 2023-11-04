@@ -1,4 +1,3 @@
 ---
-permalink: /index.html
-credits: https://github.com/xdavidhu/xdavidhu.me
+template credits: https://github.com/xdavidhu/xdavidhu.me
 ---
