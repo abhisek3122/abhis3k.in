@@ -1,3 +1,2 @@
-site: abhis3k.in<br />
-credits: https://github.com/xdavidhu/xdavidhu.me
-
+Thanks to "https://github.com/xdavidhu/xdavidhu.me" for the template!
+Live at: https://abhis3k.in/
