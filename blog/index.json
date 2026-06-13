@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "cartp-from-a-student-perspective",
+    "title": "CARTP from a Student's Perspective",
+    "date": "2026-05-31",
+    "subtitle": "Altered Security CARTP Course Review"
+  },
+  {
+    "slug": "exploring-the-attack-surface-of-oauth-2-1",
+    "title": "Exploring the Attack Surface of Open Authorization 2.1",
+    "date": "2026-03-06",
+    "subtitle": "Open Authorization Security 102"
+  },
+  {
+    "slug": "cve-2025-23167-nodejs-http-smuggling",
+    "title": "CVE-2025-23167 NodeJS HTTP Smuggling Analysis & Exploit",
+    "date": "2025-07-15",
+    "subtitle": "Exploit Development - NodeJS HTTP Smuggling"
+  },
+  {
+    "slug": "oauth-concept-and-testcases",
+    "title": "Open Authorization (OAuth) Concepts & Testcases",
+    "date": "2025-05-23",
+    "subtitle": "Open Authorization Security 101"
+  },
+  {
+    "slug": "my-thoughts-and-experience-on-passing-the-ejpt-certification",
+    "title": "My Thoughts and Experience on Passing the eJPT Certification",
+    "date": "2024-04-03",
+    "subtitle": "INE eJPT Course Review"
+  },
+  {
+    "slug": "all-about-icca-certification",
+    "title": "all about, [ICCA - INE Certified Cloud Associate]",
+    "date": "2023-12-30",
+    "subtitle": "INE ICCA Course Review"
+  }
+]

@@ -4,7 +4,7 @@
 
   document.getElementById("name").textContent = S.profile.name || "";
   document.getElementById("bioText").textContent = S.profile.bio || "";
-  document.title = S.profile.name || "Home";
+  document.title = S.siteTitle || S.profile.name || "Home";
 
   var contact = document.getElementById("contact");
   if (S.contactEmail) {
