@@ -21,7 +21,7 @@ window.SITE = {
 
   profile: {
     name: "Abhisek Rajkumar",
-    bio: "aka damnwhere. Security Consultant at NetSPI, mostly breaking into networks and interrogating Active Directory until it confesses. Currently learning my way around Azure pentesting. Past lives include web, API, and mobile testing. Reported bugs to Google, Zoho, and Brave, with an Android CVE to show for it (CVE-2023-21035). Hosts The Abhisek Cast, a podcast on the security topics that don't get talked about often enough, currently on a coffee break. Writes here when a thought needs more room than a chat message: research, notes, and the occasional overthink.",
+    bio: "aka damnwhere. Security Consultant at NetSPI, mostly breaking into networks and interrogating Active Directory until it confesses. Currently learning my way around Azure pentesting. Past lives include web, API, and mobile pentesting. Reported bugs to Google, Zoho, and Brave, with an Android CVE to show for it (CVE-2023-21035). Hosts The Abhisek Cast, a podcast on the security topics that don't get talked about often enough, currently on a coffee break. Writes here when a thought needs more room than a chat message: research, notes, and the occasional overthink.",
   },
 
   // Contact line shown under the bio. Set to "" to hide it.
