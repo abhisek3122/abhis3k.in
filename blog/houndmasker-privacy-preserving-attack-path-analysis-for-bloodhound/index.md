@@ -6,6 +6,8 @@ Hey there! I'm back with another technical blog, and this time it's about a tool
 
 In this blog, I'll walk through the problem I noticed, the lessons learned along the way, and how HoundMasker eventually came together.
 
+![HoundMasker Cover](houndmasker-cover.jpg)
+
 #### Chapter 1: <br/>What's the problem I noticed?
 
 Before getting into the problem, a quick disclaimer. This blog is primarily for people working in internal network penetration testing or Active Directory security assessments. If you've spent time staring at BloodHound graphs wondering how someone managed to give Domain Users permissions they definitely shouldn't have, you're probably the audience I'm writing this for. And yes, I'm one of those people too.
